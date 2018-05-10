@@ -39,10 +39,10 @@
 }
 
 @font-face {
-    font-family: 'Centra No2 Hairline';
+    font-family: 'Centra No2';
     src: url('CentraNo2-HairlineItalic.woff2') format('woff2'),
         url('CentraNo2-HairlineItalic.woff') format('woff');
-    font-weight: 300;
+    font-weight: 100;
     font-style: italic;
 }
 
@@ -55,10 +55,10 @@
 }
 
 @font-face {
-    font-family: 'Centra No2 Hairline';
+    font-family: 'Centra No2';
     src: url('CentraNo2-Hairline.woff2') format('woff2'),
         url('CentraNo2-Hairline.woff') format('woff');
-    font-weight: 300;
+    font-weight: 100;
     font-style: normal;
 }
 
@@ -90,7 +90,7 @@
     font-family: 'Centra No2';
     src: url('CentraNo2-ThinItalic.woff2') format('woff2'),
         url('CentraNo2-ThinItalic.woff') format('woff');
-    font-weight: 100;
+    font-weight: 200;
     font-style: italic;
 }
 
@@ -98,7 +98,7 @@
     font-family: 'Centra No2';
     src: url('CentraNo2-Thin.woff2') format('woff2'),
         url('CentraNo2-Thin.woff') format('woff');
-    font-weight: 100;
+    font-weight: 200;
     font-style: normal;
 }
 
@@ -138,7 +138,7 @@
     font-family: 'Centra No2';
     src: url('CentraNo2-Thin.woff2') format('woff2'),
         url('CentraNo2-Thin.woff') format('woff');
-    font-weight: 100;
+    font-weight: 200;
     font-style: normal;
 }
 
@@ -183,10 +183,10 @@
 }
 
 @font-face {
-    font-family: 'Centra No2 Hairline';
+    font-family: 'Centra No2';
     src: url('CentraNo2-Hairline.woff2') format('woff2'),
         url('CentraNo2-Hairline.woff') format('woff');
-    font-weight: 300;
+    font-weight: 100;
     font-style: normal;
 }
 
@@ -194,7 +194,7 @@
     font-family: 'Centra No2';
     src: url('CentraNo2-ThinItalic.woff2') format('woff2'),
         url('CentraNo2-ThinItalic.woff') format('woff');
-    font-weight: 100;
+    font-weight: 200;
     font-style: italic;
 }
 
@@ -223,10 +223,10 @@
 }
 
 @font-face {
-    font-family: 'Centra No2 Hairline';
+    font-family: 'Centra No2';
     src: url('CentraNo2-HairlineItalic.woff2') format('woff2'),
         url('CentraNo2-HairlineItalic.woff') format('woff');
-    font-weight: 300;
+    font-weight: 100;
     font-style: italic;
 }
 
@@ -253,4 +253,3 @@
     font-weight: normal;
     font-style: italic;
 }
-
